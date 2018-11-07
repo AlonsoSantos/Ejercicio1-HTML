@@ -208,5 +208,33 @@ background-color: blanchedalmond;
 .page5>article{
     width: 800px;
     height: 1200px;
-    margin: 
+    margin: 20px 60px 20px 40px;
+    padding-top: 1px;
+    background-color: purple;
+}
+.page5>article>article, .page5>article>div, .page5>article>aside{
+    width: 760px;
+    height: 300px;
+    background-color: white;
+}
+.page5>article>article{
+    margin: 20px 30px 30px 30px;
+}
+.page5>article>div{
+    margin: 30px 20px 15px 20px;
+}
+.page5>article>aside{
+    margin: 15px 40px 15px 20px;
+}
+.page5>article>section, .page5>div{
+    width: 760px;
+    height: 200px;
+}
+.page5>article>section{
+    margin: 15px 45px 20px 15px;
+    background-color: white;
+}
+.page5>div{
+    margin: 30px 70px;
+    background-color: black;
 }
